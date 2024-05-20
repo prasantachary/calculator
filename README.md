@@ -16,7 +16,7 @@ This is a simple calculator web application developed using HTML and CSS. It all
 
 ## Usage
 
-To use the calculator, simply visit [the live demo](https://prasantachary.github.io/calculator/) or clone the repository and open `index.html` in your web browser.
+To use the calculator, simply visit [the live demo](https://prasantachary.github.io/calculator/) or clone the repository and open in your web browser.
 
 1. Enter numbers using the buttons provided.
 2. Click on the operation you want to perform (e.g., + for addition).
